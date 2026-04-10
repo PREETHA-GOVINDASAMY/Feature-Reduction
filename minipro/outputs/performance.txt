@@ -1,0 +1,19 @@
+=== WITHOUT LDA ===
+Accuracy: 0.8611
+Precision: 0.8935
+Recall: 0.8611
+F1 Score: 0.8658
+Confusion Matrix:
+[[11  0  3]
+ [ 1 12  1]
+ [ 0  0  8]]
+
+=== WITH LDA ===
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+Confusion Matrix:
+[[14  0  0]
+ [ 0 14  0]
+ [ 0  0  8]]
